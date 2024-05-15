@@ -133,6 +133,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="JsonService.cpp" />
+    <ClCompile Include="Source.cpp" />
     <ClCompile Include="Weather.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
